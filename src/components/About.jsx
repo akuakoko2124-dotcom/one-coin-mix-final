@@ -24,7 +24,7 @@ const About = () => {
                         }}
                     />
                     <p style={{ fontSize: '0.9rem', color: '#666' }}>
-                        名刺も作っています！☝️
+                        こちらは私の名刺になります！☝️
                     </p>
                 </div>
             </div>
